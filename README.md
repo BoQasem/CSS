@@ -1,6 +1,5 @@
 # CSS
 ### background & margin padding
-MOHMMED QASEM
 ![1_background_margin_padding_A1](https://user-images.githubusercontent.com/93032154/196811681-23a26fb6-4b20-467f-92e0-c812abe8c264.png)
 <pre>
 div {
