@@ -178,7 +178,8 @@
 <table>
   <tr>
     <td>
-      <pre>                                                                                                                                  
+      <pre>   
+        file html name is "display_4.html"
         .container {
           background-color: #eeeeee;
           padding: 10px;
