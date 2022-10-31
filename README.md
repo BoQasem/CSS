@@ -178,7 +178,7 @@
 <table>
   <tr>
     <td>
-      <pre>   
+      <pre>                                                                                                                                     
         file html name is "display_4.html"
         .container {
           background-color: #eeeeee;
@@ -225,7 +225,50 @@
       </pre>
     </td>
   </tr>
+</table> 
+
+## Text Formatting
+5
+
+![image](https://user-images.githubusercontent.com/93032154/198908984-fd24df2c-c024-4df2-908d-3e9ca76c2c4d.png)
+<table>
+  <tr>
+    <td>
+      <pre>                                                                                                                                    
+      &lt;a href="https://qasem.com"&gt;qasem&lt;/a&gt;
+      hints: shoadow rgb(0 81 74)
+      a {
+        background-color: rgb(0 150 136); 
+        color: white;  
+        display: inline-block;
+        width: 200px; 
+        min-height: 80px; 
+        padding-top: 20px;
+      }
+      </pre>
+    </td>
+    <td>
+      <pre>
+        <h2>Solution</h2>
+        a {
+          background-color: rgb(0 150 136); 
+          color: white;  
+          display: inline-block;
+          width: 200px; 
+          min-height: 80px; 
+          padding-top: 20px;
+          font-size: 50px;
+          font-family:Arial; 
+          text-align: center;
+          font-weight: bold;
+          text-transform: capitalize;
+          text-decoration: none;
+          box-shadow: 0px 10px 0 rgb(0 81 74); 
+        }
+      </pre>
+    </td>
+  </tr>
 </table>
- 
+
 
    
